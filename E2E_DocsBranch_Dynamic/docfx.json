@@ -7,10 +7,8 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**",
-          "README.md",
-          "LICENSE",
-          "LICENSE-CODE"
+          "E2E_MDBuiltContents/**",
+          "**/includes/**"
         ]
       }
     ],
@@ -22,6 +20,7 @@
         ],
         "exclude": [
           "**/obj/**",
+          "E2E_MDBuiltContents/**",
           "**/includes/**"
         ]
       }
@@ -31,6 +30,6 @@
     "globalMetadata": {},
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_DocsBranch_Dynamic"
+    "dest": "E2E_MDBuiltContents"
   }
 }
