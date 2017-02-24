@@ -1,8 +1,4 @@
-
-# Manual Testing for Dynamic rendering
-
-## Manual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual TestingManual Testing
-
+## Testing if there is only level 2 title, the location is correct or not.
 
 ---
 Description: This is description
