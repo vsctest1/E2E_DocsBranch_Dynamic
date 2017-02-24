@@ -1,17 +1,12 @@
 
 # Add the page title
-### Image
-![this is the alt text](./image/ATA_config_icon.JPG)
-
-### Token reference and topic reference
-
-[!INCLUDE[ATA](./token/ATA.md)] 
-
-### Topic reference
-
-[Topic](./topic.md)
 
 ## Testing if there is only level 2 title, the location is correct or not.
+
+-[non exist link1](../nonexisted1.md)
+-[non exist link2](../nonexisted2.md)
+-[non exist link3](../nonexisted3.md)
+
 
 ### Testing level 3 title, the location is correct or not.
 
