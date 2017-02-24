@@ -19,8 +19,7 @@ Console.WriteLine("C#");
 
  ```javascript-i
 
-Console.WriteLine("Java
-Script");
+Console.WriteLine("JavaScript");
 
  ```
 
