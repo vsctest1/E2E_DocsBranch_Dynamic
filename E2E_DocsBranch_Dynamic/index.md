@@ -5,6 +5,29 @@
 
 ### Testing level 3 title, the location is correct or not.
 
+
+<!-- BEGINSECTION
+class="tabbedCodeSnippets" -->
+
+```cs-i
+
+Console.WriteLine("C#");
+
+ ```
+
+ 
+
+ ```javascript-i
+
+Console.WriteLine("Java
+Script");
+
+ ```
+
+<!-- ENDSECTION
+--> 
+
+
 ---
 Description: This is description
 Keywords: keywords, html
