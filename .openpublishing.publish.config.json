@@ -26,7 +26,7 @@
     {
       "path_to_root": "_themes",
       "url": "https://github.com/openpublish/templates.docs.msft",
-      "branch": "dynamic_testing_branch",
+      "branch": "develop-sync-work",
       "branch_mapping": {}
     }
   ],
