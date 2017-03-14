@@ -2,30 +2,45 @@
   "build": {
     "content": [
       {
-        "files": [
-          "**/*.md"
+        "files": [ 
+          "**/*.md",
+          "**/*.yml"
         ],
+        "src": "version1.0-src",
+        "version": "netstandard-1.0",
         "exclude": [
           "**/obj/**",
           "**/includes/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE"
+
         ]
-      }
-    ],
-    "resource": [
+      },
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+          "**/*.md",
+          "**/*.yml"
         ],
-        "exclude": [
+        "src": "version1.1-src",
+        "version": "netstandard-1.1",
+        "exclude":[
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
         ]
-      }
+      },
     ],
+    "versions":{
+      "netstandard-1.0": {
+        "dest": "netstandard-1.0-dest"
+      },
+      "netstandard-1.1": {
+        "dest":"netstandard-1.1-dest"
+      }
+    },
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {},
