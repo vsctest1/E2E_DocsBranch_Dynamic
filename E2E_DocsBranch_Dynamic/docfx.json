@@ -14,7 +14,6 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE"
-
         ]
       },
       {
@@ -35,7 +34,10 @@
       {
         "files": ["**/*.yml", "**/*.md"],
         "src": "E2E_DocsBranch_Dynamic"
-      }
+      },
+       {
+        "files": ["*.md", "*.yml"]
+       }
     ],
     "versions":{
       "netstandard-1.0": {
