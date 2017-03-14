@@ -31,6 +31,10 @@
           "LICENSE",
           "LICENSE-CODE"
         ]
+      },
+      {
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "ops_test"
       }
     ],
     "versions":{
