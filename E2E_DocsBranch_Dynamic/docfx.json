@@ -32,7 +32,7 @@
           "LICENSE-CODE"
         ]
       }
-    ]
+    ],
     "versions":{
       "netstandard-1.0": {
         "dest": "netstandard-1.0-dest"
