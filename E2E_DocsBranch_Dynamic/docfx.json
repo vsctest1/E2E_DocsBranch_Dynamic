@@ -34,7 +34,7 @@
       },
       {
         "files": ["**/*.yml", "**/*.md"],
-        "src": "ops_test"
+        "src": "E2E_DocsBranch_Dynamic"
       }
     ],
     "versions":{
