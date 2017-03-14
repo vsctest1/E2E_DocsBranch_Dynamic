@@ -31,13 +31,18 @@
           "LICENSE-CODE"
         ]
       },
-      {
-        "files": ["**/*.yml", "**/*.md"],
-        "src": "E2E_DocsBranch_Dynamic"
-      },
-       {
-        "files": ["*.md", "*.yml"]
-       }
+     {
+      "files": [
+        "**/*.md"
+      ],
+      "exclude": [
+        "**/obj/**",
+        "**/includes/**",
+        "README.md",
+        "LICENSE",
+        "LICENSE-CODE"
+      ]
+    }
     ],
     "versions":{
       "netstandard-1.0": {
