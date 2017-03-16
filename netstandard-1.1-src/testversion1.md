@@ -4,7 +4,7 @@
 [testversion](testversion)
 
 ## Externa link test
-[bing](www.bing.com)
+[bing](http://www.bing.com)
 
 ## Anchor link test
 [Go to 'Inner link test'](#Innerlinktest)   
