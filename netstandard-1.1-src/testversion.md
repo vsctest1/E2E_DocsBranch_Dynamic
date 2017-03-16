@@ -1,2 +1,1 @@
-welcome to netstandard-1.1
-testversion.md
+welcome to version supported page with version=netstandard-1.1
