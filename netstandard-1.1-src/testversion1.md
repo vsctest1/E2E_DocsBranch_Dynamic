@@ -1,7 +1,7 @@
 #Welcome to testversion1
 
 ## Inner link test
-[index](index)
+[testversion](testversion)
 
 ## Externa link test
 [bing](www.bing.com)
