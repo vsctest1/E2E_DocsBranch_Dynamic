@@ -1,7 +1,13 @@
 #Welcome to testversion1
 
-## linktest
+## Inner link test
 [index](index)
+
+## Externa link test
+[bing](www.bing.com)
+
+## Anchor link test
+[Go to 'Inner link test'](#Innerlinktest)   
 
 ## imgtest
 ![image](../images/1.png)
