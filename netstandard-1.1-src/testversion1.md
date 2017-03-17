@@ -7,7 +7,9 @@
 [bing](http://www.bing.com)
 
 ## Anchor link test
-[Go to 'Inner link test'](#Innerlinktest)   
+[Go to 'Inner link test'](#AnchorText)   
 
 ## imgtest
 ![image](../images/1.png)
+
+## <a id="AnchorText"> </a>Anchor link Test
