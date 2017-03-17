@@ -3,6 +3,9 @@
 ## Inner link test
 [testversion](testversion.md)
 
+## Outer link test
+[testversion](/E2E_DocsBranch/index.md)
+
 ## Externa link test
 [bing](http://www.bing.com)
 
