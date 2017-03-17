@@ -9,8 +9,11 @@
 ## Externa link test
 [bing](http://www.bing.com)
 
-## Anchor link test
+## Inner bookmark test
 [Go to 'Inner link test'](#AnchorText)   
+
+## External bookmark test
+[Go to 'AnchorText of testversion2.md'](testversion2.md?testpara=123#AnchorText)
 
 ## imgtest
 ![image](1.png)
