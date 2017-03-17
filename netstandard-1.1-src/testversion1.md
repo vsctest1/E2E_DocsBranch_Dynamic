@@ -4,7 +4,7 @@
 [testversion](testversion.md)
 
 ## external docsets test
-[E2E_DocsBranch/index.md](/E2E_DocsBranch/index.md)
+[E2E_DocsBranch/index.md](/E2E_DocsBranch/index.md&branch=master)
 
 ## Externa link test
 [bing](http://www.bing.com)
