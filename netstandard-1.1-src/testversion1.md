@@ -1,7 +1,7 @@
 #Welcome to testversion1
 
 ## Inner link test
-[testversion](testversion)
+[testversion](testversion.md)
 
 ## Externa link test
 [bing](http://www.bing.com)
