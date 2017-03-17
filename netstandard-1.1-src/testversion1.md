@@ -10,6 +10,6 @@
 [Go to 'Inner link test'](#AnchorText)   
 
 ## imgtest
-![image](./images/1.png)
+![image](1.png)
 
 ## <a id="AnchorText"> </a>Anchor link Test
