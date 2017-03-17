@@ -16,6 +16,6 @@
 [Go to 'AnchorText of noversion2.md'](noversion2.md?testpara=123#AnchorText)
 
 ## imgtest
-![image](1.png)
+![image](../images/1.png)
 
 ## <a id="AnchorText"> </a>Anchor link Test
