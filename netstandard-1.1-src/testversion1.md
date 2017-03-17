@@ -3,7 +3,7 @@
 ## Inner link test
 [testversion](testversion.md)
 
-## external docsets link test
+## External docsets link test
 [E2E_DocsBranch/index.md](/E2E_DocsBranch/index.md?branch=master)
 
 ## Externa link test
