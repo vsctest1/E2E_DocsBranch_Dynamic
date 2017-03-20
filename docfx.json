@@ -81,6 +81,15 @@
         "files": ["*.md", "*.yml"]
       }
     ],
+    "resource": [
+        {
+          "files": ["**/**.bmp", "**/**.gif", "**/**.ico", "**/**.jpg", "**/**.jpeg", "**/**.png"],
+          "exclude": [
+            "**/obj/**",
+            "_themes/**"
+          ]
+        }
+    ],
     "versions": {
       "netstandard-1.0": {
         "dest": "netstandard-1.0-desk"
