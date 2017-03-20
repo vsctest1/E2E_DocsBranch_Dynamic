@@ -27,6 +27,54 @@
       },
       {
         "files": ["**/*.yml", "**/*.md"],
+        "src": "reference-1.0-src",
+        "version": "netstandard-1.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
+      },
+      {
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "reference-1.1-src",
+        "version": "netstandard-1.1",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
+      },
+       {
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "hubpage-1.0-src",
+        "version": "netstandard-1.0",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
+      },
+      {
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "hubpage-1.1-src",
+        "version": "netstandard-1.1",
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE"
+        ]
+      },
+      {
+        "files": ["**/*.yml", "**/*.md"],
         "src": "E2E_DocsBranch_Dynamic"
       },
       {
