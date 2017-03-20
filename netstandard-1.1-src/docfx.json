@@ -20,7 +20,6 @@
         ],
         "exclude": [
           "**/obj/**",
-          "netstandard-1.1-src/**",
           "**/includes/**"
         ]
       }
