@@ -16,6 +16,6 @@
 [Go to 'AnchorText of testversion2.md'](testversion2.md?testpara=123#AnchorText)
 
 ## imgtest
-![image](./images/1.png)
+![image](./images/2.JPG)
 
 ## <a id="AnchorText"> </a>Anchor link Test
