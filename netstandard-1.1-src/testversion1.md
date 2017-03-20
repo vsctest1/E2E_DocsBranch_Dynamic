@@ -15,7 +15,4 @@
 ## External bookmark test
 [Go to 'AnchorText of testversion2.md'](testversion2.md?testpara=123#AnchorText)
 
-## imgtest
-![image](1.png)
-
 ## <a id="AnchorText"> </a>Anchor link Test
