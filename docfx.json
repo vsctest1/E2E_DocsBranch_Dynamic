@@ -62,7 +62,7 @@
         ]
       },
       {
-        "files": ["**/*.yml", "**/*.md"],
+        "files": [ "**/*.yml", "**/*.md" ],
         "src": "hubpage-1.5-src",
         "version": "netstandard-1.5",
         "exclude": [
@@ -72,6 +72,14 @@
           "LICENSE",
           "LICENSE-CODE"
         ]
+      },
+      {
+        "files": [ "**/*.yml", "**/*.md" ],
+        "src": "hubpage-src"
+      },
+      {
+        "files": ["**/*.yml", "**/*.md"],
+        "src": "reference-src"
       },
       {
         "files": ["**/*.yml", "**/*.md"],
