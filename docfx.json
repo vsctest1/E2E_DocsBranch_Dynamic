@@ -50,14 +50,6 @@
         ]
       },
       {
-        "files": [ "**/*.yml", "**/*.md" ],
-        "src": "hubpage-src"
-      },
-      {
-        "files": ["**/*.yml", "**/*.md"],
-        "src": "reference-src"
-      },
-      {
         "files": ["**/*.yml", "**/*.md"],
         "src": "E2E_DocsBranch_Dynamic"
       },
