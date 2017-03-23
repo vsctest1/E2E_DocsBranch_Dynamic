@@ -78,7 +78,7 @@
           "exclude": [
             "**/obj/**",
             "_themes/**"
-          ]
+          ],
          "src": "netstandard-1.1-src",
          "version": "netstandard-1.1"
         }
