@@ -2,11 +2,11 @@
 
 ## Single Selector Test
 > [!div class="op_single_selector"]
-- [Azure](https://docs.microsoft.com/en-us/powershell/azureps-cmdlets-docs)
-- [Azure AD](https://docs.microsoft.com/en-us/powershell/azure%20ad%20cmdlets)
-- [Azure ElasticDB](https://docs.microsoft.com/en-us/powershell/elasticdatabasejobs/v0.8.33/elasticdatabasejobs)
-- [Azure Service Fabric](https://docs.microsoft.com/en-us/powershell/servicefabric/vlatest/servicefabric)
-- [Azure Information Protection](https://docs.microsoft.com/en-us/powershell/aadrm/vlatest/rightsmanagement)
+- [baidu](http://www.baidu.com)
+- [google](http://www.google.com)
+- [bing](http://www.bing.com)
+- [microsoft](http://www.microsoft.com)
+- [github](http://github.com)
 
 ## Multi Selector Test
 > [!div class="op_multi_selector" title1="Platform" title2="Backend"]
