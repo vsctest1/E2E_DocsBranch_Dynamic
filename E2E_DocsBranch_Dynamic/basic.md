@@ -86,8 +86,10 @@ ___Bold&Italic4___
 
 # Escape Syntax
 \*literal asterisks\*      
-\`literal asterisks\`          
-\_literal asterisks\_
+
+\`literal asterisks\`  
+
+\_literal asterisks\_   
 
 # Split line Syntax
 111
