@@ -79,7 +79,7 @@ ___Bold&Italic4___
  | zebra stripes | are neat      |    $1 |
 
 # Image Syntax
-![Image](https://wwww.baidu.com)
+![Image](https://www.baidu.com)
 
 # Mark Syntax
 `content`
