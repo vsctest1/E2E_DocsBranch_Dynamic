@@ -65,10 +65,8 @@ ___Bold&Italic4___
 
 # Nested list Syntax
  1. aaa
- 
  >2. bbb
  >5. eee
- 
  3. ccc
 
 # Split line list Syntax
