@@ -73,15 +73,16 @@ ___Bold&Italic4___
 
 # Split line Syntax
 111
+
 ***
-
 222
+
 ------
-
 333
-___
 
+___
 444
+
 *-_
 
 # Table Syntax
