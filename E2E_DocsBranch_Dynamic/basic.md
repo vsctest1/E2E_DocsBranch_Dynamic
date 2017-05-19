@@ -13,7 +13,7 @@ Heading2_1
 ##### Heading5
 ###### Heading6
 
-# Blod Syntax
+# Bold Syntax
 **Blod1**
 __Blod2__
 
@@ -21,11 +21,11 @@ __Blod2__
 *Italic1*
 _Italic2_
 
-# Blod & Italic Syntax
-***Blod&Italic1***
+# Bold & Italic Syntax
+***Bold&Italic1***
 **_Blod&Italic2_**
-__*Blod&Italic3*__
-___Blod&Italic4___
+__*Bold&Italic3*__
+___Bold&Italic4___
 
 # Blockquote Syntax
 > Blockquote1
@@ -34,33 +34,33 @@ ___Blod&Italic4___
 # Bulleted list Syntax
 * aaa
 * bbb
-* ccc
+* ccc   
 
 + aaa
 + bbb
-+ ccc
++ ccc  
 
 - aaa
 - bbb
-- ccc
+- ccc   
 
 * aaa
 + bbb
-- ccc
+- ccc   
 
 # Ordered list Syntax
 1. aaa
 2. bbb
-3. ccc
+3. ccc   
 
 1. aaa
 5. bbb
-7. ccc
+7. ccc   
 
 # Nested list Syntax
-1. aaa
->2. bbb
->5. ccc
+1. aaa   
+>2. bbb   
+>5. ccc   
 1. ddd
 
 # Split line list Syntax
@@ -81,7 +81,7 @@ ___
  | zebra stripes | are neat      |    $1 |
 
 # Image Syntax
-![Image]()
+![Image](https://wwww.baidu.com)
 
 # Mark Syntax
 `content`
