@@ -101,4 +101,4 @@ ___
 # Escape Syntax
 \*literal asterisks\*      
 \`literal asterisks\`          
-\_literal asterisks\_  
+\_literal asterisks\_
