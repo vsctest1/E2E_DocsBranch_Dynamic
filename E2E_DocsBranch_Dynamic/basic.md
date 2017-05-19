@@ -14,8 +14,8 @@ Heading2_1
 ###### Heading6
 
 # Bold Syntax
-**Blod1**
-__Blod2__
+**Bold1**
+__Bold2__
 
 # Italic Syntax
 *Italic1*
@@ -23,7 +23,7 @@ _Italic2_
 
 # Bold & Italic Syntax
 ***Bold&Italic1***
-**_Blod&Italic2_**
+**_Bold&Italic2_**
 __*Bold&Italic3*__
 ___Bold&Italic4___
 
