@@ -64,10 +64,12 @@ ___Bold&Italic4___
 7. ccc
 
 # Nested list Syntax
-1. aaa   
-> 2. bbb
-> 5. ccc
-1. ddd
+ 1. aaa
+ 
+ >2. bbb
+ >5. eee
+ 
+ 3. ccc
 
 # Split line list Syntax
 111
