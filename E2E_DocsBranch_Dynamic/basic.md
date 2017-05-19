@@ -35,38 +35,38 @@ ___Bold&Italic4___
 ## with "*"
 * aaa
 * bbb
-* ccc   
+* ccc
 
 ## with "+"
 + aaa
 + bbb
-+ ccc  
++ ccc
 
 ## with "-"
 - aaa
 - bbb
-- ccc   
+- ccc
 
 ## with "*+-"
 * aaa
 + bbb
-- ccc   
+- ccc
 
 # Ordered list Syntax
 ## Ordered list1
 1. aaa
 2. bbb
-3. ccc   
+3. ccc
 
 ## Ordered list2
 1. aaa
 5. bbb
-7. ccc   
+7. ccc
 
 # Nested list Syntax
 1. aaa   
-> 2. bbb   
-> 5. ccc   
+> 2. bbb
+> 5. ccc
 1. ddd
 
 # Split line list Syntax
