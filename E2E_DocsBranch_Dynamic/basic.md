@@ -71,20 +71,6 @@ ___Bold&Italic4___
  
  3. ddd
 
-# Split line Syntax
-111
-
-***
-222
-
-------
-333
-
-___
-444
-
-*-_
-
 # Table Syntax
  | Tables        | Are           | Cool  |
  | ------------- |:-------------:| -----:|
@@ -102,3 +88,17 @@ ___
 \*literal asterisks\*      
 \`literal asterisks\`          
 \_literal asterisks\_
+
+# Split line Syntax
+111
+
+***
+222
+
+------
+333
+
+___
+444
+
+*-_
