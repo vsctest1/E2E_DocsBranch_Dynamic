@@ -72,17 +72,14 @@ ___Bold&Italic4___
  3. ddd
 
 # Split line Syntax
-<div>
 111
 ***
 222
-
 ---
 333
 ___
 444
 *-_
-</div>
 
 # Table Syntax
  | Tables        | Are           | Cool  |
