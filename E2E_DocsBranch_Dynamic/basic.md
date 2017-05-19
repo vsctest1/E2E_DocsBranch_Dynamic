@@ -67,15 +67,15 @@ ___Bold&Italic4___
  1. aaa
 
  >2. bbb
- >5. eee
+ >5. ccc
  
- 3. ccc
+ 3. ddd
 
 # Split line list Syntax
 111
 ***
 222
----
+-----
 333
 ___
 444
