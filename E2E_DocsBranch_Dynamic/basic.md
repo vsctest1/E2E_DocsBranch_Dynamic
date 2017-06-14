@@ -1,4 +1,4 @@
-# Basic Markdown Syntax Test Page - P1 Scenario
+# Basic Markdown Syntax Test Page
 
 # Heading Syntax
 Heading1_1
@@ -35,8 +35,8 @@ ___Bold&Italic4___
 
 ## 510057 - Verify blockquote syntax of insert different ">"
 >aaa   
->> bbb   
-> ccc   
+>>bbb   
+>ccc   
 
 ## 510058 - verify the blockquote syntax: nested with other element
 >1. *aaa*   
@@ -68,12 +68,12 @@ ___Bold&Italic4___
 - ccc
 
 ## 510060 - Verify the bulleted list syntax: the max number of space in the indent after the "*"/"+"/"-"
-### 3 spances
+### 3 spaces
    * aaa
    * bbb
    * ccc
 
-### 4 spances
+### 4 spaces
     * aaa
     * bbb
     * ccc
@@ -140,11 +140,8 @@ ___Bold&Italic4___
 # Nested list Syntax
 ## 510066 - Verify nested list syntax: Indent with ">" for sub list
  1. aaa
-
  >2. bbb
- 
  >5. ccc
- 
  3. ddd
 
 # Mark Syntax
