@@ -29,18 +29,18 @@ ___Bold&Italic4___
 
 # Blockquote Syntax
 ## 510056 - Verify blockquote syntax of insert blockquote with ">"
->aaa
-> bbb
+>aaa   
+> bbb   
 > ccc
 
 ## 510057 - Verify blockquote syntax of insert different ">"
->aaa
->> bbb
-> ccc
+>aaa   
+>> bbb   
+> ccc   
 
 ## 510058 - verify the blockquote syntax: nested with other element
->1. *aaa*
->**bbb**
+>1. *aaa*   
+>**bbb**   
 >
 >* ___ccc___ 
 
@@ -68,18 +68,20 @@ ___Bold&Italic4___
 - ccc
 
 ## 510060 - Verify the bulleted list syntax: the max number of space in the indent after the "*"/"+"/"-"
+### 3 spances
    * aaa
    * bbb
    * ccc
 
+### 4 spances
     * aaa
     * bbb
     * ccc
 
 ## 510061 - Verify the bulleted list syntax: error when no indenting after "*"/"+"/"-"
-*aaa
-*bbb
-*ccc
+*aaa   
+*bbb   
+*ccc   
 
 ## 510062 - Verify the bulleted list syntax: the max number of space in the indent between tag and message
 ### 4 spaces
