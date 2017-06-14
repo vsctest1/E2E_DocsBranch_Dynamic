@@ -1,6 +1,7 @@
 # Basic Markdown Syntax Test Page
 
 # Heading Syntax
+***
 Heading1_1
 ==
 Heading2_1
@@ -14,6 +15,7 @@ Heading2_1
 ###### Heading6
 
 # Bold Syntax
+***
 **Bold1**
 __Bold2__
 
@@ -22,12 +24,14 @@ __Bold2__
 _Italic2_
 
 # Bold & Italic Syntax
+***
 ***Bold&Italic1***
 **_Bold&Italic2_**
 __*Bold&Italic3*__
 ___Bold&Italic4___
 
 # Blockquote Syntax
+***
 ## 510056 - Verify blockquote syntax of insert blockquote with ">"
 >aaa   
 > bbb   
@@ -46,6 +50,7 @@ ___Bold&Italic4___
 
 
 # Bulleted list Syntax
+***
 ## 510059 - erify the bulleted list syntax start with "*"/"+"/"-"
 ### with "*"
 * aaa
@@ -79,9 +84,9 @@ ___Bold&Italic4___
     * ccc
 
 ## 510061 - Verify the bulleted list syntax: error when no indenting after "*"/"+"/"-"
-*aaa   
-*bbb   
-*ccc   
+*aaa
+*bbb
+*ccc
 
 ## 510062 - Verify the bulleted list syntax: the max number of space in the indent between tag and message
 ### 4 spaces
@@ -105,6 +110,7 @@ ___Bold&Italic4___
 *		ccc
 
 # Ordered list Syntax
+***
 ## 510063 - Verify the ordered list syntax: Start with number and a dot
 ## Ordered list1
 1. aaa
@@ -138,13 +144,15 @@ ___Bold&Italic4___
 3.		ccc
 
 # Nested list Syntax
+***
 ## 510066 - Verify nested list syntax: Indent with ">" for sub list
- 1. aaa
- >2. bbb
- >5. ccc
- 3. ddd
+1. aaa   
+>2. bbb
+>5. ccc
+3. ddd
 
 # Mark Syntax
+***
 ## 510081 - Verify the mark syntax is available
 Use the `printf()` function.
 
@@ -152,6 +160,7 @@ Use the `printf()` function.
 ``There is a literal backtick (`printf()`) here.``
 
 # Escape Syntax
+***
 ## 510089
 \*literal asterisks\*      
 
@@ -160,6 +169,7 @@ Use the `printf()` function.
 \_literal asterisks\_   
 
 # Split line Syntax
+***
 ## 510068 - Verify the Split Line with  3 or more "*"/"-"/"_"
 111
 
@@ -180,6 +190,7 @@ ___
 1* * *
 
 # Table Syntax
+***
  | Tables        | Are           | Cool  |
  | ------------- |:-------------:| -----:|
  | col 3 is      | right-aligned | $1600 |
@@ -217,4 +228,5 @@ ___
  | zebra stripes | are neat      |    $1 |
 
 # Image Syntax
+***
 ![Image](https://www.baidu.com)
