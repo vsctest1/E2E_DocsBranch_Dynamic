@@ -146,10 +146,13 @@ ___Bold&Italic4___
 # Nested list Syntax
 ***
 ## 510066-p2-null
-1. aaa   
->2. bbb   
->5. ccc   
-3. ddd
+ 1. aaa
+
+ >2. bbb
+ 
+ >5. ccc
+ 
+ 3. ddd
 
 # Mark Syntax
 ***
