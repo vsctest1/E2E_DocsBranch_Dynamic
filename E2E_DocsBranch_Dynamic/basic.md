@@ -262,7 +262,7 @@ This is [an baidu][id] reference-style link.
 ![Image](https://www.baidu.com 'test')
 
 ### 510085-p2-null
-![Image](/images/1.png)
+![Image](/images/test.png)
 
 ## Reference image
 ### 510086-p3-null
