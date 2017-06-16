@@ -256,13 +256,13 @@ This is [an baidu][id] reference-style link.
 ***
 ## Inline image
 ### 510083-p1-null
-![Image](https://www.baidu.com)
+![Image](http://pica.nipic.com/2008-01-09/200819134250665_2.jpg)
 
 ### 510084-p3-null
-![Image](https://www.baidu.com 'test')
+![Image](http://pica.nipic.com/2008-01-09/200819134250665_2.jpg 'test')
 
 ### 510085-p2-null
-![Image](/images/test.png)
+![Image](./images/test.png)
 
 ## Reference image
 ### 510086-p3-null
@@ -271,7 +271,7 @@ This is [an baidu][id] reference-style link.
 
 ## 510087-p2-null
 ![image1][11]
-[11]: Images\image1.jpg
+[11]: ./images/test.png
 
 ## 510088-p3-null
 ![Alt text][lalala]
