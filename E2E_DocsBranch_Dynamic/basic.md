@@ -275,4 +275,4 @@ This is [Baidu][id] reference-style link.
 
 ### 510088-p3-null
 ![Image][lalala]
-[lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg 'test'
+[lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg "test"
