@@ -241,16 +241,16 @@ ___
 [Baidu](http://baidu.com/ "Baidu") has title attribute.
 
 ### 510078-p2-null
-See my [Internal link MarkdownSyntax](MarkdownSyntax.md) page for details
+See my [Index](index.md) page for details
 
 ## Reference link 
 ### 510079-p1-null
-This is [an google][id1] reference-style link with no title.
+This is [Google][id1] reference-style link with no title.
 [id1]: http://google.com/ 
 
 ### 510080-p3-null
-This is [an baidu][id] reference-style link.
-[id]: http://baidu.com/  "baidu is title"
+This is [Baidu][id] reference-style link.
+[id]: http://baidu.com/  "Baidu"
 
 # Image Syntax
 ***
@@ -266,13 +266,13 @@ This is [an baidu][id] reference-style link.
 
 ## Reference image
 ### 510086-p3-null
-![Alt text][lalala]
+![Image][lalala]
 [lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg
 
-## 510087-p2-null
-![image1][11]
+### 510087-p2-null
+![Image][11]
 [11]: ./images/test.png
 
-## 510088-p3-null
-![Alt text][lalala]
-[lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg 'title''
+### 510088-p3-null
+![Image][lalala]
+[lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg 'test''
