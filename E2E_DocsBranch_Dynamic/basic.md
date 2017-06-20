@@ -255,24 +255,24 @@ This is [Baidu][id] reference-style link.
 # Image Syntax
 ***
 ## Inline image
-### 510083-p1-null
+### 510083-p1
 ![Image](http://pica.nipic.com/2008-01-09/200819134250665_2.jpg)
 
-### 510084-p3-null
+### 510084-p3
 ![Image](http://pica.nipic.com/2008-01-09/200819134250665_2.jpg 'test')
 
-### 510085-p2-null
+### 510085-p2
 ![Image](./images/test.png)
 
 ## Reference image
-### 510086-p3-null
+### 510086-p3
 ![Image][lalala]
 [lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg
 
-### 510087-p2-null
+### 510087-p2
 ![Image][11]
 [11]: ./images/test.png
 
-### 510088-p3-null
+### 510088-p3
 ![Image][lalala]
 [lalala]: http://pica.nipic.com/2008-01-09/200819134250665_2.jpg "test"
