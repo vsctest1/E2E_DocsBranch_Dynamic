@@ -234,21 +234,21 @@ ___
 ***
 ## Inline link
 ***
-### 510076-p1-null
+### 510076-p1
 [Baidu](http://baidu.com/) has no title attribute.
 
-### 510077-p3-null
+### 510077-p3
 [Baidu](http://baidu.com/ "Baidu") has title attribute.
 
-### 510078-p2-null
+### 510078-p2
 See my [Index](index.md) page for details
 
 ## Reference link 
-### 510079-p1-null
+### 510079-p1
 This is [Google][id1] reference-style link with no title.
 [id1]: http://google.com/ 
 
-### 510080-p3-null
+### 510080-p3
 This is [Baidu][id] reference-style link.
 [id]: http://baidu.com/  "Baidu"
 
