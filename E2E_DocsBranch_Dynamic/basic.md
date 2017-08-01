@@ -62,12 +62,12 @@ ___Bold&Italic4___
 + bbb
 + ccc
 
-### with "-"
+### with3 "-"
 - aaa
 - bbb
 - ccc
 
-### with "*+-"
+### with4 "*+-"
 * aaa
 + bbb
 - ccc
