@@ -52,12 +52,12 @@ ___Bold&Italic4___
 # Bulleted list Syntax
 ***
 ## 510059-p1
-### with "*"
+### with1 "*"
 * aaa
 * bbb
 * ccc
 
-### with "+"
+### with2 "+"
 + aaa
 + bbb
 + ccc
