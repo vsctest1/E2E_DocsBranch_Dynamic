@@ -26,7 +26,12 @@
         ]
       }
     ],
-    "overwrite": [],
+    "overwrite": [
+     "globalMetadata": {
+      "ms.author": "e2e testing",
+      "ms.prod": "azure"
+      }
+    ],
     "externalReference": [],
     "globalMetadata": {},
     "fileMetadata": {},
