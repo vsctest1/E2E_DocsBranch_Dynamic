@@ -28,7 +28,8 @@
     ],
      "globalMetadata": {
       "ms.author": "e2e testing",
-      "ms.prod": "azure"
+      "ms.prod": "azure",
+      "author": "testing count"
       },
     "externalReference": [],
     "globalMetadata": {},
