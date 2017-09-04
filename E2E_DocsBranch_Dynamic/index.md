@@ -1,5 +1,4 @@
 ---
-title: metadata test
 ms.author: e2e test
 ms.date: 09/01/2017
 ms.topic: topic
