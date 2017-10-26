@@ -34,7 +34,6 @@
   ],
   "branch_target_mapping": {
     "buildpdf-e2e": [
-      "Publish",
       "Pdf"
     ]
   },
