@@ -2,4 +2,4 @@
 
 
 ### Token reference and topic reference
-[!INCLUDE[MSDN](./token/token1.md)] 
+[!INCLUDE[MSDN](./token1.md)] 
