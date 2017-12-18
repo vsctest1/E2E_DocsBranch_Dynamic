@@ -3,11 +3,14 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
@@ -23,13 +26,18 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path": "/E2E_DocsBranch_Dynamic/breadcrumb/toc.json",
+      "extendBreadcrumb": true
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsBranch_Dynamic"
